@@ -36,7 +36,7 @@ namespace DrinkLogger.Pages
                 var command = connection.CreateCommand();
                 command.CommandText = $@"INSERT INTO DrinkLog(Date, Quantity)
                                         VALUES(
-                                                '{DrinkLog.Date}',
+                                                '{DrinkLog.Date.ToString("d")}',
                                                 '{DrinkLog.Quantity}')";
                 command.ExecuteNonQuery();
             }
