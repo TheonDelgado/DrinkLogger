@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using DrinkLogger.Pages.Models;
+using DrinkLogger.Models;
 using Microsoft.Data.Sqlite;
 using System;
 

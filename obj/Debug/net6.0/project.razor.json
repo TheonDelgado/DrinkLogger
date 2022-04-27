@@ -16326,6 +16326,11 @@
       "FilePath": "c:\\Users\\meowm\\Github\\repos\\DrinkLogger\\Pages\\Create.cshtml",
       "TargetPath": "Pages\\Create.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\meowm\\Github\\repos\\DrinkLogger\\Pages\\Delete.cshtml",
+      "TargetPath": "Pages\\Delete.cshtml",
+      "FileKind": "mvc"
     }
   ],
   "SerializationFormat": "0.2"
