@@ -25,6 +25,7 @@ namespace DrinkLogger.Pages
 
         public IActionResult OnPost()
         {
+            
             if(!ModelState.IsValid)
             {
                 return Page();

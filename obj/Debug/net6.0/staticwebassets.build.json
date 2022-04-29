@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "58/Vfj5XMT4kLSSZyFpHBBIUkd+majZS9Wo7RnjvlzA=",
+  "Hash": "k09zVeFVzoXmCo8/gPFs+xji7KzbIMwklYxvE/qde7k=",
   "Source": "DrinkLogger",
   "BasePath": "_content/DrinkLogger",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\meowm\\Github\\repos\\DrinkLogger\\wwwroot\\img\\water_logo.png",
+      "SourceId": "DrinkLogger",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\meowm\\Github\\repos\\DrinkLogger\\wwwroot\\",
+      "BasePath": "_content/DrinkLogger",
+      "RelativePath": "img/water_logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\water_logo.png"
     },
     {
       "Identity": "C:\\Users\\meowm\\Github\\repos\\DrinkLogger\\wwwroot\\js\\site.js",
