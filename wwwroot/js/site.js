@@ -1,14 +1,18 @@
 ﻿function calculate() 
 {
-    const table = document.getElementById("records");
-    const resultArea = document.getElementById("result");
+    var table = document.getElementById("records");
+    var resultArea = document.getElementById("result");
 
-    let result = 0;
+    var result = 0;
 
     for(var i = 1; i < table.rows.length ; i++)
     {
-        result = result + +table.rows[i].cells[i].innerHTML;
+        result = result + +table.rows[i].cells[1].innerHTML;
     }
 
+    if(resultArea.innerText = result.toString()) return;
     resultArea.append(`${result}`);
+
+    
 }
+
